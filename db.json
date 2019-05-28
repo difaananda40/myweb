@@ -2,15 +2,33 @@
   "users": [
     {
       "id": 1,
-      "name": "Muhammad"
+      "name": "Muhammad",
+      "alamat": [
+        {
+          "jln": "Siradj",
+          "jln2": "Salman
+        }
+      ]
     },
     {
       "id": 2,
-      "name": "Difa"
+      "name": "Difa",
+      "alamat": [
+        {
+          "jln": "Siradj",
+          "jln2": "Salman
+        }
+      ]
     },
     {
       "id": 3,
-      "name": "Ananda"
+      "name": "Ananda",
+      "alamat": [
+        {
+          "jln": "Siradj",
+          "jln2": "Salman
+        }
+      ]
     }
   ]
 }
